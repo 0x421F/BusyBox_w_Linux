@@ -65,10 +65,6 @@ Bu proje, BusyBox ve Linux çekirdeğini kullanarak minimalist bir Linux sistemi
 
 Sistem önyüklendikten sonra, BusyBox'ın sağladığı temel Unix komutlarını kullanabilirsiniz.
 
-## Katkıda Bulunma
-
-Katkılarınızı memnuniyetle karşılıyoruz. Lütfen bir pull request oluşturun veya bir issue açın.
-
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
